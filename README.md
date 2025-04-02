@@ -18,8 +18,8 @@
 ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=for-the-badge)  
 
 ### 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" width="48%">  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" width="48%">  
+<img src="https://github-readme-stats.vercel.app/api?username=theohenriqueazevedo&show_icons=true&theme=dark" width="48%">  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theohenriqueazevedo&theme=dark" width="48%">  
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/theo-henrique-azevedo7439/)  
