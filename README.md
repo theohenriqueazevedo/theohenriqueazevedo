@@ -13,6 +13,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=theohenriqueazevedo&theme=dark" width="48%">  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/theo-henrique-azevedo7439/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/theo-henrique-azevedo/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/theohenriqueazevedo)  
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pereiratheo07@gmail.com)  
