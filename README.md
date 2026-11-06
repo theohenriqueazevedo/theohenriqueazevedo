@@ -33,12 +33,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theohenriqueazevedo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theohenriqueazevedo&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theohenriqueazevedo&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=theohenriqueazevedo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=theohenriqueazevedo&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ### 📫 Connect with Me
